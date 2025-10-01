@@ -1,0 +1,201 @@
+[22-Sep-2025 22:11:08 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:08 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:08 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:08 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:09 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:09 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:09 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:09 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:11 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:11 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:11 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:11 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:14 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:14 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:14 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:14 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:17 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:17 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:17 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:17 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:19 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:19 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:19 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:19 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:43 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:43 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:43 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:43 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:44 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:44 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:44 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 8
+[22-Sep-2025 22:11:44 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:11:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dashboard.php on line 11
+[22-Sep-2025 22:14:26 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:14:26 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:14:26 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:14:26 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 11
+[22-Sep-2025 22:14:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 11
+[22-Sep-2025 22:14:28 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:14:28 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:14:28 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:14:28 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 11
+[22-Sep-2025 22:14:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 11
+[22-Sep-2025 22:14:31 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 8
+[22-Sep-2025 22:14:31 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 8
+[22-Sep-2025 22:14:31 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 8
+[22-Sep-2025 22:14:31 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 17
+[22-Sep-2025 22:14:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 17
+[22-Sep-2025 22:14:34 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dietas.php on line 8
+[22-Sep-2025 22:14:34 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dietas.php on line 8
+[22-Sep-2025 22:14:34 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dietas.php on line 8
+[22-Sep-2025 22:14:34 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dietas.php on line 17
+[22-Sep-2025 22:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dietas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dietas.php on line 17
+[22-Sep-2025 22:16:57 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:16:57 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:16:57 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:16:57 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 11
+[22-Sep-2025 22:16:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 11
+[22-Sep-2025 22:16:58 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:16:58 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:16:58 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:16:58 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 11
+[22-Sep-2025 22:16:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 11
+[22-Sep-2025 22:17:04 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 8
+[22-Sep-2025 22:17:04 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 8
+[22-Sep-2025 22:17:04 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 8
+[22-Sep-2025 22:17:04 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 17
+[22-Sep-2025 22:17:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 17
+[22-Sep-2025 22:17:06 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 8
+[22-Sep-2025 22:17:06 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 8
+[22-Sep-2025 22:17:06 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 8
+[22-Sep-2025 22:17:06 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 17
+[22-Sep-2025 22:17:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 17
+[22-Sep-2025 22:17:12 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:17:12 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:17:12 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:17:12 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 11
+[22-Sep-2025 22:17:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 11
+[22-Sep-2025 22:22:57 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:22:57 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:22:57 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:22:57 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 11
+[22-Sep-2025 22:22:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 11
+[22-Sep-2025 22:22:58 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:22:58 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:22:58 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 8
+[22-Sep-2025 22:22:58 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 11
+[22-Sep-2025 22:22:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 11
+[22-Sep-2025 22:23:00 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 8
+[22-Sep-2025 22:23:00 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 8
+[22-Sep-2025 22:23:00 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 8
+[22-Sep-2025 22:23:00 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 17
+[22-Sep-2025 22:23:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 17
+[22-Sep-2025 22:23:02 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dietas.php on line 8
+[22-Sep-2025 22:23:02 UTC] PHP Warning:  include(conexion.php): Failed to open stream: No such file or directory in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dietas.php on line 8
+[22-Sep-2025 22:23:02 UTC] PHP Warning:  include(): Failed opening 'conexion.php' for inclusion (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dietas.php on line 8
+[22-Sep-2025 22:23:02 UTC] PHP Warning:  Undefined variable $conexion in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dietas.php on line 17
+[22-Sep-2025 22:23:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dietas.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dietas.php on line 17
+[22-Sep-2025 22:25:25 UTC] PHP Warning:  Undefined variable $moE in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 12
+[22-Sep-2025 22:25:29 UTC] PHP Warning:  Undefined variable $moE in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 12
+[22-Sep-2025 22:25:31 UTC] PHP Warning:  Undefined variable $moE in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/dietas.php on line 12
+[22-Sep-2025 22:25:34 UTC] PHP Warning:  Undefined variable $moE in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/seguimiento.php on line 12
+[22-Sep-2025 22:27:17 UTC] PHP Warning:  Undefined variable $moE in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 12
+[22-Sep-2025 22:27:18 UTC] PHP Warning:  Undefined variable $moE in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 12
+[22-Sep-2025 22:27:19 UTC] PHP Warning:  Undefined variable $moE in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 12
+[22-Sep-2025 22:27:21 UTC] PHP Warning:  Undefined variable $moE in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/rutinas.php on line 12
+[22-Sep-2025 22:30:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rol' in 'where clause' in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php:14
+Stack trace:
+#0 /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php(14): mysqli->query('SELECT id, nomb...')
+#1 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 14
+[22-Sep-2025 22:30:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rol' in 'where clause' in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php:14
+Stack trace:
+#0 /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php(14): mysqli->query('SELECT id, nomb...')
+#1 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 14
+[22-Sep-2025 22:30:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 's.rutina' in 'field list' in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/seguimiento.php:14
+Stack trace:
+#0 /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/seguimiento.php(14): mysqli->query('SELECT s.id, u....')
+#1 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/seguimiento.php on line 14
+[22-Sep-2025 22:30:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rol' in 'where clause' in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php:14
+Stack trace:
+#0 /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php(14): mysqli->query('SELECT id, nomb...')
+#1 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 14
+[22-Sep-2025 22:31:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'rol' in 'where clause' in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php:14
+Stack trace:
+#0 /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php(14): mysqli->query('SELECT id, nomb...')
+#1 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/coach/clientes.php on line 14

@@ -1,0 +1,35 @@
+[06-Sep-2025 17:51:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ejasyjrp_marrongym.membresias' doesn't exist in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php:20
+Stack trace:
+#0 /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php(20): mysqli->query('SELECT SUM(mont...')
+#1 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php on line 20
+[06-Sep-2025 17:51:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ejasyjrp_marrongym.membresias' doesn't exist in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php:20
+Stack trace:
+#0 /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php(20): mysqli->query('SELECT SUM(mont...')
+#1 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php on line 20
+[06-Sep-2025 17:51:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ejasyjrp_marrongym.membresias' doesn't exist in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php:20
+Stack trace:
+#0 /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php(20): mysqli->query('SELECT SUM(mont...')
+#1 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php on line 20
+[06-Sep-2025 17:51:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ejasyjrp_marrongym.membresias' doesn't exist in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php:20
+Stack trace:
+#0 /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php(20): mysqli->query('SELECT SUM(mont...')
+#1 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php on line 20
+[06-Sep-2025 17:51:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ejasyjrp_marrongym.membresias' doesn't exist in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php:20
+Stack trace:
+#0 /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php(20): mysqli->query('SELECT SUM(mont...')
+#1 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php on line 20
+[06-Sep-2025 17:51:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ejasyjrp_marrongym.membresias' doesn't exist in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php:20
+Stack trace:
+#0 /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php(20): mysqli->query('SELECT SUM(mont...')
+#1 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php on line 20
+[06-Sep-2025 17:52:02 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'ejasyjrp_marrongym.membresias' doesn't exist in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php:20
+Stack trace:
+#0 /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php(20): mysqli->query('SELECT SUM(mont...')
+#1 {main}
+  thrown in /home/ejasyjrp/marrongym.rodokizzzdev.com/marron/propietario/reportes_financieros.php on line 20
